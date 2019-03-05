@@ -1,0 +1,50 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%%  https://tex.stackexchange.com/questions/337820/mcq-long-table-using-tikz-tcolorbox-or-tabular
+%%  https://tex.stackexchange.com/questions/283419/color-in-a-multirow-cell-with-extra-vertical-space/283454
+%%  https://tex.stackexchange.com/questions/406033/how-to-fit-a-cell-of-a-table-to-a-figure-and-arrange-multiple-tables/406042
+%% 
+%% THIS (??)::
+%%     https://texblog.org/2014/05/19/coloring-multi-row-tables-in-latex/
+%%
+%%
+%%   https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{tcolorbox}[tab1, tabularx={X  X }, title=Outstanding Issues in Variable Extragalactic Astrophysics, boxrule=1.25pt] 
+Scientific Motivation                 &  NEOCam Requirements      \\ 
+\hline \hline
+\multicolumn{2}{c}{{\sc The physics of accretion}} \\ 
+Investigate ``hot'' and ``cold'' mode accretion in the quasar
+population; determine the rates and timescales characterising the
+Changing Look Quasar (CLQ) population.  &
+Identify and characterize all the CLQs in DESI, LSST, WISE and NEOCam footprint.\\
+\hline
+Probe and determine the physical state of the inner parsec of the
+quasar central engine.  & 
+Rapid analysis and response for NEOCam quasar light curves. \\
+\hline
+%%
+\multicolumn{2}{c}{{\sc Obscured accretion and galaxy formation}} \\
+\hline
+%%
+Establish the bolometric output and origin of IR emission, and
+determine presence of extreme outflows in the quasar population (??!!) & 
+Deep optical imaging data from LSST combined with searching for post-starburst
+signatures in NEOCam light-curves. \\
+\hline
+%%
+Establishing the range of SED parameter space the quasars occupy by a
+multi-wavelength multi-epoch ``truth table dataset''. & 
+Build ``The Quasar SED Rosetta Stone'' using X-ray, UV/optical, IR
+data as well as repeat optical observations from LSST, NEOCam, spectroscopy. \\ 
+\hline
+%%
+\multicolumn{2}{c}{{\sc Multi-messanger Astrophysics}}\\
+Identify the EM counterparts for $\sim10^{6}$ M$_{\odot}$ supermassive binary black holes; 
+Identify the EM counterparts for neutrino events. &  
+\\ 
+    %\end{tcbitemize}
+\end{tcolorbox}
