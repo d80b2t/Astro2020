@@ -24,9 +24,9 @@ make
 
 ## Versioning
 
-* v1.1 2019 April 17. Visibility window gap changed from 215d to 115d.
+* v1.1 &nbsp;&nbsp;&nbsp;    2019 April 17. Visibility window gap changed from 215d to 115d.
 
-* v1.0: 2019 March 11. Astro2020 Science White Papers were due. Includes NEOCam\_TDExga\_Astro2020\_SUBMITTED.
+* v1.0 &nbsp;&nbsp;&nbsp;    2019 March 11. Astro2020 Science White Papers were due. Includes NEOCam\_TDExga\_Astro2020\_SUBMITTED.
 
 
 
