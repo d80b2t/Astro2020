@@ -1,8 +1,8 @@
 # NEOCam Time Domain Extragalactic Science Astro2020 White Paper 
 
 This is the working repo for the NEOCam Time Domain Extragalactic Science Astro2020 White Paper.
-The document NEOCam\_TDExgal\_Astro2020\_SUBMITTED was submitted to the Astronomy and Astrophysics Decadal Survey, aka [Astro2020](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_1851590).
 
+The document NEOCam\_TDExgal\_Astro2020\_SUBMITTED was submitted to the Astronomy and Astrophysics Decadal Survey, aka [Astro2020](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_1851590), and also appeared on the arXiv as [1904.06160v1](https://arxiv.org/abs/1904.06160v1). 
 
 ## Getting Started
 
